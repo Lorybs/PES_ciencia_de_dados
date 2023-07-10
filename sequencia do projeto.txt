@@ -1,0 +1,20 @@
+- importar as bibliotecas panda
+- Importar os dados
+- Head
+- Entender o dados
+- Análise exporatoria
+- bom explicar e entender o que é cada atributo
+- Análise descritiva dos dados (média, mediana, etc...)
+- Analise explorar (biblioteca sweetviz é boa que mostra vários gráficos como perarson e correlacoes)
+- Pré processamento de dados
+- Pre edicao
+-- Quem é o meu Y (meu target)
+- Escolher as features (x)
+-- Usar o sckit learn
+-- definir os modelos
+-- Treinar o modelo
+-- ver os dados treinados
+-- validar o modelo
+-- validar a predicao
+-- validar no conunto de dados de teste
+-- 

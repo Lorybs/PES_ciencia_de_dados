@@ -1,0 +1,65 @@
+- holdout set - ok
+- Avaliacao de modelos preditivos - ok
+- Medidas de avaliacao - ok
+- Scikit learn - ok
+- MLFlow - ok (mais ou menos)
+- O que é API? - ok
+- O que é Hiperparametro - ok
+- Random Forest - OK
+- Algoritmo de constucao - OK
+- Diagnostico de modelos (vies e variancia) - OK
+- Overfiting e underfiting - OK
+
+- Clustering - OK
+- Distancia e similaridade - OK
+- Similaridade de jaccard e cosseno - OK
+- Algoritmo de Kmean - OK 
+- Algoritmo Hac - OK
+- Rand index
+- V-Score e F-score
+- Silhouet Score e analysis
+
+MLFlow
+
+Pre processamento de dados
+- Ajustes de tipos
+- Dados ausentes
+- Discretizacao 
+- normalizacao
+- Deteccao de outliers
+- fonte de erro
+- tarefa exploratoria
+- tipos de problemas com dados (faltantes, duplicados, ausentes, irrelevantes, incorretos)
+-zscore
+- Centro e dispersao
+- Zscore
+- metodo tukey, bivariado e multivariado
+- multivariado: elliptic envelope
+- limitacao distancia euclidiana
+- outliers
+- isolation forest
+
+
+processamento em larga escala
+- map reduce
+- spark
+
+Ver Kaggle
+Passar pelos exercícios do professor
+ver o video da programcao de um projeto inteiro com a programacao dinamica
+Ver um pouco de python
+Comecar o projeto
+
+
+
+https://www.pythonforbeginners.com/api/
+
+
+
+Os modelos Long Short-Term Memory (LSTM)
+
+Os modelos Long Short-Term Memory (LSTM) são um tipo de rede neural recorrente capaz de aprender sequências de observações
+
+
+
+
